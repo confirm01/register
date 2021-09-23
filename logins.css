@@ -117,3 +117,12 @@ span{
     margin-top: auto;
     margin-bottom: auto;
 }
+@media screen and (max-width: 770px){
+    #copy p{
+        color:#009688;
+        font-size: 12px;
+        text-align: center;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+}
